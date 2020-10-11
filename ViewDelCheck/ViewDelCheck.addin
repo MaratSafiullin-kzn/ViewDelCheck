@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application ViewDelCheck</Name>
+    <Assembly>ViewDelCheck.dll</Assembly>
+    <FullClassName>ViewDelCheck.App</FullClassName>
+    <ClientId>4a2571b6-5583-4ef5-ae80-497f7de8858d</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
